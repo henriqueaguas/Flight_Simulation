@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a5866c72da9b1a447b0556e0405619c7
+timeCreated: 1568032647
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Animations/vent06.controller
+  uploadId: 436494

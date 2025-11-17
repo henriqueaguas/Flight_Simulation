@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d68d6fa652145114594c157a6e1b469a
+timeCreated: 1581005843
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Bench.prefab
+  uploadId: 436494

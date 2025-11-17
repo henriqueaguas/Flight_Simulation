@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 403640dedbc793f4cbb7c0a2ca965c20
+timeCreated: 1551367676
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/MetalProtector01.mat
+  uploadId: 436494

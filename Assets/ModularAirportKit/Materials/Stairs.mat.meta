@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 47ca9a2d5b5896645af7b7cb91a08e00
+timeCreated: 1576332572
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Stairs.mat
+  uploadId: 436494

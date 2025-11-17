@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b8413cd689cbd24a99502029a983344
+timeCreated: 1560269249
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/MetalPlate01.prefab
+  uploadId: 436494

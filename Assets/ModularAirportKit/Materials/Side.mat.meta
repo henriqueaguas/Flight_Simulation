@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d58c74379c9c90543b7ecddf17d2fc38
+timeCreated: 1579253418
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Side.mat
+  uploadId: 436494

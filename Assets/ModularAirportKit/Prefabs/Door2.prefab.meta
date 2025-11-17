@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39b398ee60cd3cd4fadf1e1c34cc5271
+timeCreated: 1581009711
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Door2.prefab
+  uploadId: 436494

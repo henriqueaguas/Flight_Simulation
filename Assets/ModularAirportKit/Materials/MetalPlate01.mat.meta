@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32f962d132d2d574bb112a0b0429da3e
+timeCreated: 1560264774
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/MetalPlate01.mat
+  uploadId: 436494

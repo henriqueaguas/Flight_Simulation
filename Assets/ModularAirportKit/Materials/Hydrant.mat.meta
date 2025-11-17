@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9b508d103f22ec46962f1c75b4bcf3f
+timeCreated: 1515598733
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Hydrant.mat
+  uploadId: 436494

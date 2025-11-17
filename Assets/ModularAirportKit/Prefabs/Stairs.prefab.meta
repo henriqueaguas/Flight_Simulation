@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f3d72c84441704419642d57908e23c3
+timeCreated: 1581410200
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Stairs.prefab
+  uploadId: 436494

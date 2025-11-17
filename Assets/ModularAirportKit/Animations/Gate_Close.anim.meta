@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fcb0fd4817dca95429595b48168229f3
+timeCreated: 1576140206
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Animations/Gate_Close.anim
+  uploadId: 436494

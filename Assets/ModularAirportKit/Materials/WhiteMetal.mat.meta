@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 345d8e8acc1fc6248bd5a08080500650
+timeCreated: 1579266536
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/WhiteMetal.mat
+  uploadId: 436494

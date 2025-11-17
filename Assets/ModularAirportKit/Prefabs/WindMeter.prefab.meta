@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb08fc729b2246c41a26307916c3242d
+timeCreated: 1578217394
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/WindMeter.prefab
+  uploadId: 436494

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b81fca5eeb3e2d46a80442c08d2979c
+timeCreated: 1550682701
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Pallet03.mat
+  uploadId: 436494

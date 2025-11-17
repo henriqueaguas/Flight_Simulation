@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b98eb75bb2cf54b6d93e08417610f46c
+labels:
+- Particles
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/smoke01_mat.mat
+  uploadId: 436494

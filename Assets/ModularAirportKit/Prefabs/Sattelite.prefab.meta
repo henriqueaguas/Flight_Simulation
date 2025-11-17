@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ecf7af3a512f15c4fabb6b35cc5adf25
+timeCreated: 1568014723
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Sattelite.prefab
+  uploadId: 436494

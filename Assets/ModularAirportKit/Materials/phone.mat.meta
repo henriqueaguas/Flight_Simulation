@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb4fe093c83fa034cad7a75fdc752cf1
+timeCreated: 1559135362
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/phone.mat
+  uploadId: 436494

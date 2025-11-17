@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb3fd88d1abeba245b8dca15ad14b275
+timeCreated: 1581408420
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/AirportLight.prefab
+  uploadId: 436494

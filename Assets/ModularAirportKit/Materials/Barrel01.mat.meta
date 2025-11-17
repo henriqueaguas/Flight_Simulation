@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b69312555d4f254285c79cb31b5ebb1
+timeCreated: 1576062047
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Barrel01.mat
+  uploadId: 436494

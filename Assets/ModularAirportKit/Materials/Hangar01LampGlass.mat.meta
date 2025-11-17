@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3072e3d074cf234ba0505ecaf9acfdc
+timeCreated: 1579019439
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Hangar01LampGlass.mat
+  uploadId: 436494

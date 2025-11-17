@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2e3a2b169211804cae6799f8ff3381b
+timeCreated: 1579019661
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Hangar01Wall.mat
+  uploadId: 436494

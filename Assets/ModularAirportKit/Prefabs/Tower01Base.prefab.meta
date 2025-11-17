@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c41fc37f044dad347a64447fc6246267
+timeCreated: 1579454630
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Tower01Base.prefab
+  uploadId: 436494

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0944dcb67a9d5084c9b9f13bc8d59f43
+timeCreated: 1578222469
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/WindSockFabric.mat
+  uploadId: 436494

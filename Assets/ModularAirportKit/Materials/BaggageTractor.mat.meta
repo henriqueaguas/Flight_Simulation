@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: adcd20e46416faa4d969a2703f67e025
+timeCreated: 1578147261
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/BaggageTractor.mat
+  uploadId: 436494

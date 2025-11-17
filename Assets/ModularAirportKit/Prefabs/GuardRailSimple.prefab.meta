@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 988e4c78926612e46b0df25611c3aaed
+timeCreated: 1560094500
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/GuardRailSimple.prefab
+  uploadId: 436494

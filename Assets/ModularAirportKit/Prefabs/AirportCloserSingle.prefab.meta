@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e190eded07fb83146b37f446e5ca6869
+timeCreated: 1581006017
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/AirportCloserSingle.prefab
+  uploadId: 436494

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9631bd4319615324a9581fd9a0d899b0
+timeCreated: 1578492502
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/RedWall01.mat
+  uploadId: 436494

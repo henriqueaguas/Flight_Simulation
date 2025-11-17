@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f4e151c699c2524e8a8139389a0334b
+timeCreated: 1521025287
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Animations/AirportDoor02.controller
+  uploadId: 436494

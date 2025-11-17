@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c53c1b10591c6194f8ef411d58cb8af3
+timeCreated: 1553451827
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/ConcreteSmall04_03.prefab
+  uploadId: 436494

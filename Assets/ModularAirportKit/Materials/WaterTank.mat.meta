@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0050e33ff3cc1440ba725757e987e4b
+timeCreated: 1579545869
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/WaterTank.mat
+  uploadId: 436494

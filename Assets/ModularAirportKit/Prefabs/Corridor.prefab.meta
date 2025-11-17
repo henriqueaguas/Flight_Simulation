@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4c85e40311d57a45a975273c0099c1f
+timeCreated: 1581161923
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Corridor.prefab
+  uploadId: 436494

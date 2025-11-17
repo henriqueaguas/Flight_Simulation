@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41f8cf53da2b86e4ea74eec3d49c3024
+timeCreated: 1579253358
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Asphalt.mat
+  uploadId: 436494

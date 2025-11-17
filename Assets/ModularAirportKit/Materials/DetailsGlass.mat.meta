@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f5285dbd5ca06d14b99f1fe8da1675a0
+timeCreated: 1576067435
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/DetailsGlass.mat
+  uploadId: 436494

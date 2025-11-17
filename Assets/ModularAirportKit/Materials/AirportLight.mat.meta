@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b0de68170520c5645a400e3a8af5377b
+timeCreated: 1576238596
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/AirportLight.mat
+  uploadId: 436494

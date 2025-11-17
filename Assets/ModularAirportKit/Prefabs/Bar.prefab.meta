@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 049bb42f034178c499c1a599fe061c10
+timeCreated: 1576061937
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Bar.prefab
+  uploadId: 436494

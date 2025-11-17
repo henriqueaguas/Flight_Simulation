@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cefdc0cdec25408428eadd4585c19afa
+timeCreated: 1581350542
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/ElectricBox02.prefab
+  uploadId: 436494

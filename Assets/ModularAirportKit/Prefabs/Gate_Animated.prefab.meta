@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 51013a8a1b1ebc3418dd84bf2fdeaef3
+timeCreated: 1576225633
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Gate_Animated.prefab
+  uploadId: 436494

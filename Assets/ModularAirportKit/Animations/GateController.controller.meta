@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f591910d24a958345b67927c3919bfd1
+timeCreated: 1429286847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Animations/GateController.controller
+  uploadId: 436494

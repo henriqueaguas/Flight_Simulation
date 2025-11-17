@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0bd578481a111740bb70b59c9d31e1f
+timeCreated: 1549983205
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/BottomWall01.mat
+  uploadId: 436494

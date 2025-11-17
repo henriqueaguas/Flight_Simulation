@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ef443c7137f7ab4faea553eae25e6db
+timeCreated: 1579260903
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Floor.mat
+  uploadId: 436494

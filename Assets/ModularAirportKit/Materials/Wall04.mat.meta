@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3177df973a61ef45b0dd35544585446
+timeCreated: 1564663016
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/Wall04.mat
+  uploadId: 436494

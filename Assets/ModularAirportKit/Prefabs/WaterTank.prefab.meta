@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 529fcb088ddedad478fda3b7439e1b96
+timeCreated: 1579547828
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/WaterTank.prefab
+  uploadId: 436494

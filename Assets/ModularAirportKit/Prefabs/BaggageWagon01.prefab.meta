@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 665f3c6860f5ab247912ce113376dfba
+timeCreated: 1581409939
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/BaggageWagon01.prefab
+  uploadId: 436494

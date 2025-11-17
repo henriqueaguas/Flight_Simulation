@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7eec8594f4c1ac346848a20b488a2be1
+timeCreated: 1520961395
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Animations/Bar_Open.anim
+  uploadId: 436494

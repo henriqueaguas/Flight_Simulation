@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 071f8880df307644cab73e1ff1a96736
+timeCreated: 1581405467
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Scenes/sample01.unity
+  uploadId: 436494

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3acb7931eeb4d4c47a648a2135f7d147
+timeCreated: 1581079942
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/FlowerPot_Plant.prefab
+  uploadId: 436494

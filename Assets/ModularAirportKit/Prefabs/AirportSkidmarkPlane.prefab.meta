@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a65707ead1f8e5146bfd59ad4e36361b
+timeCreated: 1580486557
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/AirportSkidmarkPlane.prefab
+  uploadId: 436494

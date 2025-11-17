@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f8c784a449c84e459bf2ad84b4dd45c
+timeCreated: 1581351054
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/RoadBump.prefab
+  uploadId: 436494

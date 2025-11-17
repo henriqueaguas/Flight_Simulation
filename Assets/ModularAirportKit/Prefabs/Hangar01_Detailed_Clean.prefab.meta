@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c38b4209113e6654bafd619d58ae03ad
+timeCreated: 1581405163
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Prefabs/Hangar01_Detailed_Clean.prefab
+  uploadId: 436494

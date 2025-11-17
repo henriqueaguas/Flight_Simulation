@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 14b215aa7a4cfe8409e1f5cd7cfe424a
+timeCreated: 1576501033
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Scripts/CameraLook.cs
+  uploadId: 436494

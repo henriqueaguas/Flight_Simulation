@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b84209cce9d07a4f9d1e318675169f4
+timeCreated: 1559135362
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162800
+  packageName: Modular Airport Set
+  packageVersion: 1.0
+  assetPath: Assets/ModularAirportKit/Materials/phoneglass.mat
+  uploadId: 436494
