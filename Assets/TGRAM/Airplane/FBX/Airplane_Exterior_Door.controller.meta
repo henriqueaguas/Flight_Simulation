@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbf5831e0a404444ca75ea61eb690a60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178579
+  packageName: Passenger AirPlane - Game Ready
+  packageVersion: 1.1
+  assetPath: Assets/TGRAM/Airplane/FBX/Airplane_Exterior_Door.controller
+  uploadId: 404518

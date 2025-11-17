@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8903dd7006da7904da287e5cd9193f7a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178579
+  packageName: Passenger AirPlane - Game Ready
+  packageVersion: 1.1
+  assetPath: Assets/TGRAM/Airplane/Materials/Plane_Glass.mat
+  uploadId: 404518
